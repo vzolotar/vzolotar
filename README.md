@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=vzolotar&show_icons=true)
->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vzolotar)](https://github.com/vzolotar/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=vzolotar&color=blue)
