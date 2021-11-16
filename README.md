@@ -5,16 +5,12 @@
 </a>
 
 ### 📈 GitHub Stats
-<br/>
-<a href="https://github.com/vzolotar">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vzolotar&layout" alt="My Top Langs" />
-</a>
 
-<a href="https://github.com/vzolotar">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=vzolotar&show_icons=true" alt="My GitHub Stats" />
-</a>
+| <a href="https://github.com/vzolotar">  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=vzolotar&show_icons=true=compact&theme=buefy&hide_border=true" alt="Vlad's github stats" /></a> | <a href="https://github.com/vzolotar">  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vzolotar&layout=compact&theme=buefy&hide_border=true"  /></a> |
+| ------------- | ------------- |
 
-<br/>
+
+
 
 ### ⚡ ️Languages and Tools
 
@@ -61,13 +57,13 @@
 
 #### Platforms 
 
+<br/>
 <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Microsoft Azure-0089D6?logo=microsoft-azure&logoColor=white" />
 <img src="https://img.shields.io/badge/VMware-316192?logo=vmware&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" />
+<br/>
 
-##
-##  
 
 ![](https://komarev.com/ghpvc/?username=vzolotar&color=blue)
