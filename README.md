@@ -1,4 +1,4 @@
-### 👋 About me 
+### About me 
 
 <a href="https://www.linkedin.com/in/vladzolotarev">
   <img align="center" style="margin:0.5rem" src="https://img.shields.io/badge/Linkedin   -%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
