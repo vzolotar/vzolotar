@@ -57,13 +57,13 @@
 
 #### Platforms 
 
-<br/>
-<img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Microsoft Azure-0089D6?logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/VMware-316192?logo=vmware&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" />
-<br/>
+
+<code><img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" ></code>
+<code><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" ></code>
+<code><img src="https://img.shields.io/badge/Microsoft Azure-0089D6?logo=microsoft-azure&logoColor=white"></code>
+<code><img src="https://img.shields.io/badge/VMware-316192?logo=vmware&logoColor=white" ></code>
+<code><img src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" ></code>
+
 
 
 ![](https://komarev.com/ghpvc/?username=vzolotar&color=blue)
