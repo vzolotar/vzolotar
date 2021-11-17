@@ -1,5 +1,6 @@
+<!---
 <img src="https://avatars.githubusercontent.com/u/7130646?s=400&u=c55e51bfa71a1fb995d22c347c9d6aa66bea1405&v=4" align="right" style="height: 64px"/>
-
+--->
 ### ✔️ About me 
 
 <a href="https://www.linkedin.com/in/vladzolotarev">
