@@ -1,3 +1,5 @@
+<img src="https://avatars.githubusercontent.com/u/7130646?s=400&u=c55e51bfa71a1fb995d22c347c9d6aa66bea1405&v=4" align="right" style="height: 64px"/>
+
 ### ✔️ About me 
 
 <a href="https://www.linkedin.com/in/vladzolotarev">
@@ -6,12 +8,14 @@
 
 ### 📈 GitHub Stats
 
-| <a href="https://github.com/vzolotar">  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=vzolotar&show_icons=true=compact&theme=buefy&hide_border=true" alt="Vlad's github stats" /></a> | <a href="https://github.com/vzolotar">  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vzolotar&layout=compact&theme=buefy&hide_border=true"  /></a> |
+| <a href="https://github.com/vzolotar">  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=vzolotar&show_icons=true=compact&theme=buefy&hide_border=true&include_all_commits=true" alt="Vlad's github stats" /></a> | <a href="https://github.com/vzolotar">  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vzolotar&layout=compact&theme=buefy&hide_border=true"  /></a> |
 | ------------- | ------------- |
 
 
-
-
+<!---
+| <a href="https://github.com/vzolotar">  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=vzolotar&show_icons=true=compact&theme=buefy&hide_border=true" alt="Vlad's github stats" /></a> | <a href="https://github.com/vzolotar">  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vzolotar&layout=compact&theme=buefy&hide_border=true"  /></a> | 
+| ------------- | ------------- |
+--->
 ### ⚡ ️Languages and Tools
 
 
