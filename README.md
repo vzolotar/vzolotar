@@ -7,16 +7,19 @@
   <img align="center" style="margin:0.5rem" src="https://img.shields.io/badge/Linkedin   -%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+
 ### 📈 GitHub Stats
 
-| <a href="https://github.com/vzolotar">  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=vzolotar&show_icons=true=compact&theme=buefy&hide_border=true&include_all_commits=true" alt="Vlad's github stats" /></a> | <a href="https://github.com/vzolotar">  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vzolotar&layout=compact&theme=buefy&hide_border=true"  /></a> |
+| <a href="https://github.com/vzolotar">  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=vzolotar&show_icons=true=compact&theme=buefy&hide_border=true&include_all_commits=true" alt="Vlad's github stats" /></a> | <a href="https://github.com/vzolotar">  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vzolotar" alt="Vlad's Top Langs" /> |
 | ------------- | ------------- |
 
+  
 
 <!---
 | <a href="https://github.com/vzolotar">  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=vzolotar&show_icons=true=compact&theme=buefy&hide_border=true" alt="Vlad's github stats" /></a> | <a href="https://github.com/vzolotar">  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vzolotar&layout=compact&theme=buefy&hide_border=true"  /></a> | 
 | ------------- | ------------- |
 --->
+  
 ### ⚡ ️Languages and Tools
 
 
