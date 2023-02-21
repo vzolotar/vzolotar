@@ -26,7 +26,7 @@
 #### Languages 
 
 
-<img src="https://img.shields.io/badge/SQL-c64646?logo=sqlserver&logoColor=black" /> <img src="https://img.shields.io/badge/PLSQL-F80000?logo=oracle&logoColor=black" /> <img src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=PowerShell&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/PowerBuilder-40B5A4?logo=powerbuilder&logoColor=white" /> 
+<img src="https://img.shields.io/badge/SQL-c64646?logo=sqlserver&logoColor=black" /> <img src="https://img.shields.io/badge/PLSQL-F80000?logo=oracle&logoColor=black" /> <img src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=PowerShell&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/PowerBuilder-40B5A4?logo=powerbuilder&logoColor=white" /> <img src="https://img.shields.io/badge/VBA-c64646?logo=vba&logoColor=black" />
 
 
 #### Tools
